@@ -4,4 +4,4 @@
 
 <img src="https://github.com/edzer/sdsl/blob/main/geopythonR.png" width="100%" />
 
-CC-BY-SA
+Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
