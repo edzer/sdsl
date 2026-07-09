@@ -1,8 +1,8 @@
 # sdsl: Spatial Data Science Languages
 
-[source](geopythonR.graphio) for [graph](https://github.com/edzer/sdsl/blob/main/geopythonR.png)
+[source](geoPythonRJulia.graphio) for [graph](geoPythonRJulia.png)
 
-<img src="https://github.com/edzer/sdsl/blob/main/geopythonR.png" width="100%" />
+![](geoPythonRJulia.png)
 
 Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
