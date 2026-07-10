@@ -1,12 +1,18 @@
 # sdsl: Spatial Data Science Languages
 
-[source](geoPythonRJulia.graphio) for [graph](geoPythonRJulia.png)
+Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+
+## Python-R-Julia:
+
+[source](geoPythonRJulia.graphio) for [graph](https://github.com/edzer/sdsl/blob/main/geoPythonRJulia.png)
 
 ![](geoPythonRJulia.png)
 
-Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+## Python-R:
 
-Part of [Spatial Data Science Languages: commonalities and
-needs](https://arxiv.org/pdf/2503.16686), by Pebesma, Fleischmann,
-Parry, Nowosad, Graser, Dunnington, Pronk, Schouten, Lovelace,
-Appel and Abad.
+[source](geopythonR.graphio) for [graph](https://github.com/edzer/sdsl/blob/main/geopythonR.png)
+
+<img src="https://github.com/edzer/sdsl/blob/main/geopythonR.png" width="100%" />
+
+The Python-R figure appeared in:
+Edzer Pebesma, Martin Fleischmann, Josiah Parry, Jakub Nowosad, Anita Graser, Dewey Dunnington, Maarten Pronk, Rafael Schouten, Robin Lovelace, Marius Appel, and Lorena Abad, 2025. Spatial data science languages: commonalities and needs. Journal of Spatial Information Science 31 (2025), [pp. 119–144](https://josis.org/index.php/josis/article/view/462)
